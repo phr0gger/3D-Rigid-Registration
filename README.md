@@ -3,4 +3,4 @@ Python implementation of J. Cashbaugh and C. Kitts, "Automatic Calculation of a 
 
 Calculates a homogeneous transform between two frames given a set of matched pairs of position measurements from the point of view of each of the reference frames.
 
-For comparison, Horn's method as implemented by Jack Hunt (https://github.com/JackHunt/HornsMethod) is included.
+For comparison, Arun's method is included as implemented by Jack Hunt (erroneously referred to as Horn's method by him, https://github.com/JackHunt/HornsMethod) is included.
